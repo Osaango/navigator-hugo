@@ -1,84 +1,134 @@
-<div align="center">
-<h1><a href="https://themefisher.com/hugo-themes/">Navigator Hugo</a></h1>
-[![GitHub stars](https://img.shields.io/github/stars/themefisher/navigator-hugo.svg)](https://github.com/themefisher/navigator-hugo/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/themefisher/navigator-hugo.svg)](https://github.com/themefisher/navigator-hugo/issues) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themefisher/navigator-hugo.svg?maxAge=2592000)]() 
-[![GitHub forks](https://img.shields.io/github/forks/themefisher/navigator-hugo.svg)](https://github.com/themefisher/navigator-hugo/network)
-<img src="https://user-images.githubusercontent.com/37659754/54080047-38a01b80-4312-11e9-8aa2-1e716c07c0f2.gif" alt="screenshot" width="100%">
-</div>
+<h1 align=center>Navigator Hugo</h1>
+<p align=center>This theme is highly customizable and aimed exclusively at presenting any business or corporate profile.</p>
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/navigator" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnavigator%2Fsite%2Fen%2F&form_factor=desktop">Page Speed (93%)🚀</a>
+</h2>
 
-Navigator is a responsive, modern and clean free multipurpose template powered by Bootstrap4. Built with refined business as well as corporate elements, and saturated with rich typography, Navigator is lightweight, fast-loading, responsive and W3C-validated, delivering a great first impression to visitors.
 
-Navigator based on Bootstrap 4 and offers Amazing design layout.
 
-**The images are only for demonstration purpose, Please don't use those images.**
+<p align=center>
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.147.2" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.147.2&color=f00&logo=hugo" />
+  </a>
 
-## Table of Contents
+  <a href="https://github.com/gethugothemes/navigator-hugo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/gethugothemes/navigator-hugo" alt="license"></a>
 
-- [Demo](#demo)
-- [Installation](#installation)
-- [Main Features](#main-features)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
+  <img src="https://img.shields.io/github/languages/code-size/gethugothemes/navigator-hugo" alt="code size">
 
-## Demo
+  <a href="https://github.com/gethugothemes/navigator-hugo/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/gethugothemes/navigator-hugo" alt="contributors"></a>
 
-| About  | Service  | Portfolio  | Contact  |
-|---|---|---|---|
-| ![About page](https://user-images.githubusercontent.com/37659754/54080077-a0eefd00-4312-11e9-91d7-5d77982885f1.png)  | ![Service page](https://user-images.githubusercontent.com/37659754/54080080-a1879380-4312-11e9-9f2e-f06114e6de57.png) | ![Portfolio page](https://user-images.githubusercontent.com/37659754/54080079-a0eefd00-4312-11e9-8306-3982f4288279.png) | ![Contact page](https://user-images.githubusercontent.com/37659754/54080078-a0eefd00-4312-11e9-9083-fa8a9ac64122.png)
+  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
+    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
+      alt="follow on Twitter"></a>
+</p>
 
-[Live Demo](http://demo.themefisher.com/navigator-hugo/en/).
 
-## Installation
 
-Navigate to your themes folder in your Hugo site and use the following commands:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37659754/54080047-38a01b80-4312-11e9-8aa2-1e716c07c0f2.gif" alt="screenshot" width="100%">
+</p>
 
+
+## 🔑Features
+- 📄 7+ Pre-Designed Pages
+- 🏠 Multiple homepages (2)
+- 🌍 Multiple language support (Fr, En)
+- 📊 Google Analytics support
+- ⚙️ Netlify settings predefine
+- 🅱️ Bootstrap Based
+- ✉️ Contact form support
+- 🔄 GDPR consent enabled
+- 🗺️ Google Maps support
+- 🚀 Google Page Speed optimized
+- 🌐 Open Graph meta tag
+- 🐦 Twitter Card meta tag
+
+## 📄 7+ Pre-Designed Pages
+
+- 🏠 Home Page
+- ℹ️ About Page
+- 📞 Contact Page
+- 📄 Portfolio Page
+- 📄 Blog Page
+- 📝 Blog Single Page
+- 📧 Contact Page
+
+## 🔧Local development
+
+```bash
+# clone the repository
+git clone git@github.com:gethugothemes/navigator-hugo.git
+
+# setup project
+$ npm run project-setup
+
+# Start local dev server
+$ npm run dev
 ```
-$ mkdir themes
-$ cd themes
-$ git clone https://github.com/themefisher/navigator-hugo.git
-```
 
-[Full Documentation](http://demo.themefisher.com/navigator-hugo/en/blog/installation/).
+Or Check out [Full Documentation](https://docs.gethugothemes.com/navigator/?ref=github).
 
-## Main features
 
-* Fully Responsive Ready.
-* Powered by bootstrap css framework.
-* Parallax effect.
-* Shortable portfolio.
-* Multipage.
-* Documented codes.
+## ⚙️Deployment and hosting
 
-## Reporting Issues
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/navigator-hugo)
 
-We use GitHub Issues as the official bug tracker for the Navigator Template. Please Search [existing issues](https://github.com/themefisher/navigator-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/navigator-hugo/issues)
+Follow the steps.
 
-## Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.  
+<!-- reporting issue -->
+## 🐞Reporting Issues
 
-## Licensing
+We use GitHub Issues as the official bug tracker for the navigator Template. Please Search [existing
+issues](https://github.com/gethugothemes/navigator-hugo/issues). Someone may have already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new
+issue](https://github.com/gethugothemes/navigator-hugo/issues).
 
-This Theme is released under [Creative Commons Attribution 3.0 (CC-BY-3.0) License](https://creativecommons.org/licenses/by/3.0/)
-If you want to remove the credit simply make a [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GSG5G2YL3E5V4), so that we can run our contribution to hugo community.
 
-## Useful Links
+## 📱Submit Your Website To Our Showcase
 
-[Installation](https://gohugo.io/getting-started/installing/) | [More Hugo Themes By Themefisher](https://themefisher.com/hugo-themes/)  
+Are you using Navigator Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
-## Hire Us
-We are available for Hiring of your next HUGO project. Drop Us a mail [themefisher@gmail.com](mailto:themefisher@gmail.com)
+Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
 
-## Premium Themes
+[Submit](https://gethugothemes.com/showcase?submit=show) your Navigator Hugo powered website.
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) | [![bexer](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-bexer.jpg)](https://gethugothemes.com/products/bexer-hugo-theme/) |
+<!-- licence -->
+## 📄License
+
+Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
+[Gethugothemes](https://gethugothemes.com)
+
+**Code License:** Released under the [MIT](https://github.com/gethugothemes/navigator-hugo/blob/master/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
+share those images.
+
+<!-- resources -->
+## 🙏Special Thanks
+
+- [Bootstrap](https://getbootstrap.com)
+- [Jquery](https://jquery.com)
+- [Filterizr](https://yiotis.net/filterizr/)
+- [Lightbox2](https://lokeshdhakar.com/projects/lightbox2)
+- [Parallax](https://ianlunn.co.uk/plugins/jquery-parallax)
+- [Slick Slider](https://kenwheeler.github.io/slick/)
+- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+- [Google Fonts](https://fonts.google.com/)
+- [All Contributors](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)
+
+## 👨‍💻Hire Us
+
+Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo.
+
+If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our
+[services](https://gethugothemes.com/services/?utm_source=navigator_github&utm_medium=referral&utm_campaign=github_theme_readme)**
+
+<!-- premium themes -->
+## Premium Themes By Us
+
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=navigator_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Meghna](https://demo.gethugothemes.com/thumbnails/meghna.png)](https://gethugothemes.com/products/meghna/) | [![Bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
 |:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Biztrox**  | **Bexer**  |
-| [![Enov](https://gethugothemes.com/wp-content/uploads/2019/09/enov-business-template.jpg)](https://gethugothemes.com/products/enov-hugo/) | [![Vixcon](https://gethugothemes.com/wp-content/uploads/edd/2019/09/vixcon-conference-meetup-template-thumbnail.jpg)](https://gethugothemes.com/products/vixcon-hugo/) | [![Orbitor](https://gethugothemes.com/wp-content/uploads/edd/2019/09/orbitor-software-company-website-template.jpg)](https://gethugothemes.com/products/orbitor/) |
-| **Enov** | **Vixcon** | **Orbitor** |
-| [![Agen](https://gethugothemes.com/wp-content/uploads/edd/2019/09/agen-hugo-theme.jpg)](https://gethugothemes.com/products/agen-hugo/) | [![Meghna](https://gethugothemes.com/wp-content/uploads/edd/2019/07/Megna.jpg)](https://gethugothemes.com/products/meghna-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Agen** | **Meghna** | **More Hugo Themes** |
+| **Get 55+ Premium Hugo Themes Bundle** | **Meghna** | **Bigspring** |
